@@ -1,3 +1,3 @@
 # odin-recipes
 
-Making first HTML file with recipes
+Making my first HTML file with some recipes
